@@ -1,0 +1,4 @@
+*.nc
+*.git
+.ipynb_checkpoints/
+*token*
